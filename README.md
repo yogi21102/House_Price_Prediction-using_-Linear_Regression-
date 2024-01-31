@@ -9,8 +9,13 @@ Your friend then gives you some information about a bunch of houses,it is all in
 The data contains the following columns:
 
 'Area': Areaa of the house 
+
 'Stories'
+
 'Bathrooms': Number of Bathrooms for Houses in same city
+
 'Bedrooms': Number of Bedrooms for Houses in same city
+
 'Parking'
+
 'Price': Price that the house sold at
